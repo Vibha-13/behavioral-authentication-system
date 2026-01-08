@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+
+# Temporary / generated files
+keystrokes.csv
+test_sample.csv
+
+# Virtual environment (if added later)
+venv/
+.env
